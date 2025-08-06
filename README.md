@@ -17,10 +17,11 @@ EtherCAT to modbus TCP using openPLC Runtime.
 
 - [Node.js](https://nodejs.org/)
 - [Git](https://git-scm.com/)
-- [Python](https://
+- [Python](https://www.python.org/downloads/release/python-300/)
+- [openPLC](https://autonomylogic.com/docs/openplc-overview/)
+  
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/yourrepo.git
-cd yourrepo
-npm install
+git clone https://github.com/JohnLiao-source/openPLC.git
+cd openPLC
