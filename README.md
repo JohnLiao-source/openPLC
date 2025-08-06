@@ -10,6 +10,8 @@ EtherCAT to modbus TCP using openPLC Runtime.
 ## 📦 Features
 
 - ✅ Multi-protocol support (Modbus, EtherCAT)
+- ✅ openPLC runtime
+- ✅ openPLC edition
 
 ## 🚀 Installation
 
